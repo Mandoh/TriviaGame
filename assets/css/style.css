@@ -1,0 +1,24 @@
+@font-face {
+    font-family: russiaFont;
+    src: url(./Dusha.ttf);
+}
+
+div {
+    font-family: russiaFont;
+}
+body{
+	background-image: url(http://backgroundcheckall.com/wp-content/uploads/2017/12/soccer-stadium-background-14.jpg);
+	text-align: center;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+#main{
+    padding:10%;
+}
+#gameboard{
+    opacity: 70%;
+}
